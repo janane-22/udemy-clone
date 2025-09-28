@@ -20,4 +20,6 @@ Footer Section: Includes links to Udemy resources such as About, Careers, Blog, 
 HTML: Semantic structure of the site, including sections, navigation, and informative content.
 
 CSS: Custom styling for sections, buttons, grid layouts, responsiveness, and interactive elements.
-To View Project....
+
+
+To View Project....https://janane-22.github.io/udemy-clone/
